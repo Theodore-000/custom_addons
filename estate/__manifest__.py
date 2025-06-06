@@ -10,7 +10,9 @@
     """,
     "depends":[],
     "data": [
-            "security/ir.model.access.csv"
+            "security/ir.model.access.csv",
+            "views/property_view.xml",
+            "views/menu_items.xml",
         ],
     "sequence": -100,
     "installable": True,
